@@ -18,8 +18,8 @@ let package = Package(
     dependencies: [
         .package(
             name: "Ink",
-            url: "https://github.com/johnsundell/ink.git",
-            from: "0.2.0"
+            url: "https://github.com/Kyle-Ye/Ink.git",
+            from: "0.7.0"
         ),
         .package(
             name: "Plot",
